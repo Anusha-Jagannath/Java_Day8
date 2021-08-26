@@ -12,7 +12,9 @@ public class Main {
 //		Calendar.find(args[0],args[1],args[2]);
 //		Temperature.temperatureConversion();
 //		MonthlyPayment.monthlyPayment(args[0],args[1],args[2]);
-		SquareRoot.sqrt();
+//		SquareRoot.sqrt();
+//		Binary.toBinary();
+		Binary2.toBinary();
 	}
 
 }

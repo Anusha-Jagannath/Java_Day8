@@ -14,11 +14,11 @@ public class Binary {
 			i++;
 		}
 		
-		int temp1, j = arr.length - 4;
+		int temp1, j = arr.length;
 		for (i = 0; i < arr.length; i++) { // loop runs 4 times and swap first four element to last four elements
-			temp = arr[i];
+			temp1 = arr[i];
 			arr[i] = arr[j];
-			arr[j] = temp;
+			arr[j] = temp1;
 			j++;
 		}
 		for(i=0;i<n;i++)

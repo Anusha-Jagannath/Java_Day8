@@ -3,7 +3,8 @@ package com.basic_java;
 public class Main {
 
 	public static void main(String[] args) {
-				//	CoinFlip coinflip=new CoinFlip();
+		
+//		CoinFlip coinflip=new CoinFlip();
 //		coinflip.calculate();
 //		
 //		LeapYear leap=new LeapYear();
